@@ -2,7 +2,9 @@
 
 ## 📃 Description
 
-A roadmap to learning machine learning, from zero to hero! This roadmap builds your skills from the groud up, from learning the basics of how to get your data ready for your model, to learning about advanced machine learning algorithms, Natural Language Processing and Deep Learning.
+A roadmap to learning machine learning, from zero to hero! 
+
+This roadmap builds your skills from the groud up, from learning the basics of how to get your data ready for your model, to learning about advanced machine learning algorithms, Natural Language Processing and Deep Learning.
 
 ## <img width="25px" src="https://skillicons.dev/icons?i=python"/> Roadmap
 
