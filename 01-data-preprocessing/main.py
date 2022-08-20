@@ -34,7 +34,7 @@ dependent_variable_vector = label_encoder.fit_transform(dependent_variable_vecto
 
 # Splitting dataset into training and test set
 
-features_train, features_test, dependent_variable_vector_train, dependent_variable_vector_test = train_test_split(features, dependent_variable_vector, dependent_variable_vector, test_size=0.2, random_state=1)
+features_train, features_test, dependent_variable_vector_train, dependent_variable_vector_test = train_test_split(features, dependent_variable_vector, test_size=0.2, random_state=1)
 
 # Feature scaling
 
