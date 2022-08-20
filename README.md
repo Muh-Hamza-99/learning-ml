@@ -11,3 +11,4 @@ This roadmap builds your skills from the groud up, from learning the basics of h
 The directory structure directly corresponds with the roadmap, which is provided below...
 
 1. [Data Preprocessing](./01-data-preprocessing/)
+2. [Linear Regression](./02-linear-regression/)
