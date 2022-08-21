@@ -13,3 +13,4 @@ The directory structure directly corresponds with the roadmap, which is provided
 1. [Data Preprocessing](./01-data-preprocessing/)
 2. [Linear Regression](./02-linear-regression/)
 3. [Multiple Linear Regression](./03-multiple-linear-regression/)
+4. [Polynomial Linear Regression](./04-polynomial-linear-regression/)
