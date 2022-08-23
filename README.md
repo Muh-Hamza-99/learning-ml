@@ -16,3 +16,4 @@ The directory structure directly corresponds with the roadmap, which is provided
 4. [Polynomial Linear Regression](./04-polynomial-linear-regression/)
 5. [Support Vector Regression](./05-support-vector-regression/)
 6. [Decision Tree Regression](./06-decision-tree-regression/)
+7. [Random Forest Regression](./07-random-forest-regression/)
