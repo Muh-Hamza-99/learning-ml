@@ -19,3 +19,5 @@ The directory structure directly corresponds with the roadmap, which is provided
 7. [Random Forest Regression](./07-random-forest-regression/)
 8. [Model Selection Regression](./08-model-selection-regression/)
 9. [Logistic Regression](./09-logistic-regression/)
+10. [K Nearest Neighbours](./10-k-nearest-neighbours/)
+11. [Support Vector Machine](./11-support-vector-machine/)
