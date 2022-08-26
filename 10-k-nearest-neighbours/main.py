@@ -25,7 +25,7 @@ standard_scaler = StandardScaler()
 x_train = standard_scaler.fit_transform(x_train)
 x_test = standard_scaler.transform(x_test)
 
-# Training Logistic Regression model on the training set
+# Training K-Nearest Neighbours model on the training set
 
 classifier = KNeighborsClassifier(n_neighbors=5, metric="minkowski", p=2)
 classifier.fit(x_train, y_train)
@@ -53,7 +53,7 @@ plt.xlim(x1.min(), x1.max())
 plt.ylim(x2.min(), x2.max())
 for i, j in enumerate(np.unique(y_set)):
     plt.scatter(x_set[y_set==j, 0], x_set[y_set==j, 1], c=ListedColormap(("red", "green"))(i), label=j)
-plt.title("Logistic Regression (Training set)")
+plt.title("K-Nearest Neighbours (Training set)")
 plt.xlabel("Age")
 plt.ylabel("Estimated Salary")
 plt.legend()
@@ -68,7 +68,7 @@ plt.xlim(x1.min(), x1.max())
 plt.ylim(x2.min(), x2.max())
 for i, j in enumerate(np.unique(y_set)):
     plt.scatter(x_set[y_set == j, 0], x_set[y_set == j, 1], c = ListedColormap(("red", "green"))(i), label = j)
-plt.title("Logistic Regression (Test set)")
+plt.title("K-Nearest Neighbours (Test set)")
 plt.xlabel("Age")
 plt.ylabel("Estimated Salary")
 plt.legend()
