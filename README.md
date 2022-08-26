@@ -21,3 +21,4 @@ The directory structure directly corresponds with the roadmap, which is provided
 9. [Logistic Regression](./09-logistic-regression/)
 10. [K Nearest Neighbours](./10-k-nearest-neighbours/)
 11. [Support Vector Machine](./11-support-vector-machine/)
+12. [Kernel Support Vector Machine](./12-kernel-support-vector-machine/)
