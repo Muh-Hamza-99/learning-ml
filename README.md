@@ -23,3 +23,5 @@ The directory structure directly corresponds with the roadmap, which is provided
 11. [Support Vector Machine](./11-support-vector-machine/)
 12. [Kernel Support Vector Machine](./12-kernel-support-vector-machine/)
 13. [Naive Bayes](./13-naive-bayes/)
+14. [Decision Tree Classification](./14-decision-tree-classification/)
+15. [Random Forest Classification](./15-random-forest-classification/)
