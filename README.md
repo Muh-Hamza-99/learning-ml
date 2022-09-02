@@ -26,3 +26,4 @@ The directory structure directly corresponds with the roadmap, which is provided
 14. [Decision Tree Classification](./14-decision-tree-classification/)
 15. [Random Forest Classification](./15-random-forest-classification/)
 16. [K Means Clustering](./16-k-means-clustering/)
+17. [Hierarchical Clustering](./17-hierarchical-clustering/)
