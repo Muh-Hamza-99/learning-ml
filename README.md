@@ -27,4 +27,5 @@ The directory structure directly corresponds with the roadmap, which is provided
 15. [Random Forest Classification](./15-random-forest-classification/)
 16. [K Means Clustering](./16-k-means-clustering/)
 17. [Hierarchical Clustering](./17-hierarchical-clustering/)
-18. [Apriori](./18-apriori/)
+18. [Apriori Associate Learning](./18-apriori-associate-learning/)
+19. [Eclat Associate Learning](./19-eclat-associate-learning/)
