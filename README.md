@@ -31,3 +31,5 @@ The directory structure directly corresponds with the roadmap, which is provided
 19. [Eclat Associate Learning](./19-eclat-associate-learning/)
 20. [Upper Confidence Bound Learning](./20-upper-confidence-bound-learning/)
 21. [Thompson Sampling Learning](./21-samples-sampling-learning/)
+22. [Natural Language Processing](./22-natural-language-processing/)
+23. [Artificial Neural Networks](./23-artificial-neural-networks/)
